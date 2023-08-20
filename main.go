@@ -5,9 +5,9 @@ import (
 	"math/rand"
 	"time"
 
-	"gitlab.com/kiwicom/search-team/balancer/balancer"
-	"gitlab.com/kiwicom/search-team/balancer/client"
-	"gitlab.com/kiwicom/search-team/balancer/service"
+	"balancer/balancer"
+	"balancer/client"
+	"balancer/service"
 )
 
 func main() {
